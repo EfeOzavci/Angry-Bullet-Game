@@ -1,2 +1,1 @@
-# Angry Bullet Game
- 
+This game shows a ball which is doing a projectile motion and whose angle and velocity can be set using the left-right-up and down keys. Once the ball's velocity and angle is set, it may start moving only if space key is pressed. There is some obstacles and targets. The user will try to shoot the targets and avoid obstacles. In any case, the user can press 'r' to shoot again.
